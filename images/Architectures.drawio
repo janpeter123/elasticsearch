@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2024-02-27T19:42:26.323Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g3y4J2bGNVLSj9Bs-QT3" version="23.1.2" type="device">
+  <diagram name="Page-1" id="nBwEcApG00Ymjbu2QLME">
+    <mxGraphModel dx="1272" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-1" value="Case 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="75" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-4" value="ElasticSearch Node&lt;br&gt;es01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qjmgg1IJPBjZbSNaAf2l-5" target="Qjmgg1IJPBjZbSNaAf2l-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-6" value="Kibana&lt;br&gt;kib01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-10" value="Case 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="245" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-12" value="ElasticSearch Node&lt;br&gt;es01" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qjmgg1IJPBjZbSNaAf2l-14" target="Qjmgg1IJPBjZbSNaAf2l-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qjmgg1IJPBjZbSNaAf2l-14" target="Qjmgg1IJPBjZbSNaAf2l-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/elastic-kibana-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="95" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-15" value="Kibana" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="220" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-18" value="ElasticSearch Node&lt;br&gt;es02" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-20" value="ElasticSearch Node&lt;br&gt;es03" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="535" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qjmgg1IJPBjZbSNaAf2l-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.049;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qjmgg1IJPBjZbSNaAf2l-14" target="Qjmgg1IJPBjZbSNaAf2l-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

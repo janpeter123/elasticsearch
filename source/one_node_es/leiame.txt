@@ -1,0 +1,18 @@
+Para rodar o ES localmente rode os seguintes comandos
+docker-compose up -d
+
+Abra o navegador na página http://localhost:5601
+
+Você precisará de um token, gere o token com o seguinte comando
+docker exec -it es01 /usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token -s kibana
+
+Após isso será necessário um código de verificação
+Obtenha o código com 
+docker exec -it kib01 bin/kibana-verification-code
+
+Login do usuário
+elastic
+
+senha
+elastic123
+
